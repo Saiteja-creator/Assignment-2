@@ -1,0 +1,40 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #9ba9eb;
+  background-size: cover;
+  min-height: 100vh;
+}
+.passwordManager {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.appLogo {
+  width: 200px;
+  height: 140px;
+}
+.inputAndImageContainer {
+  display: flex;
+  background-color: #5763a5;
+  width: 1000px;
+  height: 350px;
+  margin: 15px;
+  padding: 15px;
+}
+.imageAndInput {
+  display: flex;
+  background-color: white;
+  margin: 15px;
+}
+
+.inputImage {
+  width: 80px;
+  height: 30px;
+}
+.InputContainer {
+  background-color: #454f84;
+  padding: 20px;
+}
